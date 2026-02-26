@@ -1,0 +1,10 @@
+Dashboard Overview
+This Power BI dashboard visualizes customer churn behavior and revenue impact using the cleaned subscription dataset.
+The dashboard highlights:
+Overall churn rate
+Revenue lost due to churn
+Churn by plan type
+Lifecycle churn trends
+Usage-based segmentation
+High-risk customer identification
+The goal was to transform raw subscription data into actionable business insights through structured SQL processing and interactive reporting.
